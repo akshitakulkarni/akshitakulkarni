@@ -16,7 +16,7 @@ Passionate about bridging experimental biology, computational analysis, and tran
 
 # 🧬 About Me
 
-🔬 I work in **Research & Development at OmniBRx Biotechnologies Pvt. Ltd.**, contributing to biotechnology research involving mammalian cell culture, cell banking, scientific collaborations and laboratory operations.  
+🔬 I work in **Research & Development at OmniBRx Biotechnologies Pvt. Ltd.**, contributing to biotechnology research involving mammalian cell culture, cell banking, scientific collaborations and laboratory operations.
 
 🧬 My research interests lie at the intersection of **immunology, cancer biology, molecular biology, cell therapy, bioprocess engineering, and translational biotechnology**.
 
@@ -46,18 +46,18 @@ Passionate about bridging experimental biology, computational analysis, and tran
 
 ---
 
-# 📄 Resume:
+# 📄 Resume
 
 You can view my resume here:
 
-[![Resume](https://img.shields.io/badge/Resume-Akshita__Kulkarni__Resume-ff69b4?style=flat\&logo=adobeacrobatreader\&logoColor=white)](https://example.com/Akshita_Kulkarni_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Akshita__Kulkarni__Resume-ff69b4?style=flat&logo=adobeacrobatreader&logoColor=white)](https://example.com/Akshita_Kulkarni_Resume.pdf)
 
 ---
 
 # 🔬 Research Interests
 
 - Immuno-oncology
-- Vaccine development
+- Vaccine Development
 - Cell Therapy
 - CAR-T & CAR-NK Cell Engineering
 - Molecular Biology
@@ -96,7 +96,6 @@ You can view my resume here:
 - Cell Counting
 - Cryopreservation
 
-
 ## Immunology
 
 - Multi-Parametric Flow Cytometry
@@ -131,7 +130,7 @@ You can view my resume here:
 - Antimicrobial Screening
 - Microscopy
 - Serial Dilution
-  
+
 ---
 
 # 💻 Computational Skills
@@ -186,7 +185,7 @@ Working on biotechnology research involving:
 
 ### Dissertation Research
 
-**ICMR – National Institute of Immunohaematology (NIIH), Mumbai** (Dec 2025-May 2026)
+**ICMR – National Institute of Immunohaematology (NIIH), Mumbai** (Dec 2025 - May 2026)
 
 **Project:** Comparative analysis of monocyte distribution and lymphocyte activation profiles in patients with Inborn Errors of Immunity.
 
@@ -229,18 +228,27 @@ Techniques included:
 - Site-Directed Mutagenesis
 - Flow Cytometry
 
-
 ---
 
 # 📚 Publications
 
-## Chimeric Antigen Receptor-Based Immunotherapies in Cancer Treatment: An Indian Perspective
+### 1. Chimeric Antigen Receptor-Based Immunotherapies in Cancer Treatment: An Indian Perspective
 
-**Indian Journal of Physiology and Pharmacology (2026)**
+**Journal:** Indian Journal of Physiology and Pharmacology (2026)
 
 **Authors:** Kulkarni A, Kulkarni A, Sharma NK
 
-📄 DOI: https://doi.org/10.25259/IJPP_541_2025
+📄 **DOI:** https://doi.org/10.25259/IJPP_541_2025
+
+---
+
+### 2. Biochemical Characterisation and Keratinolytic Potential of Thermophilic and Alkaliphilic Proteases for Sustainable Feather Waste Management
+
+**Status:** Accepted for Publication
+
+**Authors:** Kulkarni A, et al.
+
+📄 **DOI:** To be published soon
 
 ---
 
@@ -248,10 +256,10 @@ Techniques included:
 
 - 🎓 B.Tech Biotechnology (CGPA: **10.0 / 10**)
 - 🥇 GATE XL 2026 Qualified
-- 📄 Review paper publication
+- 📄 One Published Research Paper and One Accepted for Publication
 - 🎤 Poster Presentation – ICABB 2024
-- 🧬 Research experience at ICMR-NIIH, CSIR-CCMB & CSIR-IGIB
-- 🔬 Currently working in Research & Development at OmniBRx Biotechnologies
+- 🧬 Research Experience at ICMR-NIIH, CSIR-CCMB & CSIR-IGIB
+- 🔬 Currently Working in Research & Development at OmniBRx Biotechnologies
 
 ---
 
@@ -271,7 +279,6 @@ Current areas include:
 
 ---
 
-
 # 🤝 Open to Collaborate On
 
 - Immuno-oncology
@@ -287,18 +294,17 @@ Current areas include:
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Akshitakulkarni&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshitakulkarni&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitakulkarni&layout=compact&theme=tokyonight"/>
 
 </p>
-
 
 ---
 
